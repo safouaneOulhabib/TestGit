@@ -13,6 +13,11 @@ echo "Hello World First commit from safouane";
 echo "Hello World Second commit from safouane";
 
 // $ git add . 
+// $ git commit -m "Center commit from safouane"
+// $ git push -u origin samir
+echo "Hello World Center commit from safouane";
+
+// $ git add . 
 // $ git commit -m "third commit"
 // $ git push -u origin samir
 echo "Hello World Third commit from samir";

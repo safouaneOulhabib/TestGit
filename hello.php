@@ -5,7 +5,7 @@ echo "Hello World First commit from safouane";
 // $ git add . 
 // $ git commit -m "second commit"
 // $ git push -u origin samir
-echo "Hello World Second commit";
+echo "Hello World Second commit from safouane";
 
 // $ git add . 
 // $ git commit -m "third commit"

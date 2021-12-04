@@ -1,0 +1,21 @@
+git and github tips :
+
+1 - create a new repository in github 
+2 - create a new folder in your desktop that will contain the code 
+3 - initialise git in the folder by the command :
+$ git init 
+4 - create a new file that will contain our code , for this example we will create a hello world app with PHP
+my File : 
+
+<?php 
+
+echo "Hello World First commit";
+
+?>
+
+5 - after writing this code add it to git with the following command : 
+
+$ git add .
+
+5 - to commit the changes to git you can do it with this command : 
+

@@ -17,4 +17,10 @@ echo "Hello World Third commit from samir";
 // $ git push -u origin samir
 echo "Hello World adding new feature from samir";
 
+
+// $ git add . 
+// $ git commit -m "adding new feature from master"
+// $ git push -u origin samir
+echo "Hello World adding new feature from master";
+
 ?>

@@ -1,5 +1,10 @@
 <?php 
 
+// $ git add . 
+// $ git commit -m "Header commit from safouane"
+// $ git push -u origin samir
+echo "Hello World Header commit from safouane";
+
 echo "Hello World First commit from safouane";
 
 // $ git add . 

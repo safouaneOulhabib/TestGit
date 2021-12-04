@@ -33,4 +33,9 @@ echo "Hello World adding new feature from samir";
 // $ git push -u origin samir
 echo "Hello World Footer commit from safouane";
 
+// $ git add . 
+// $ git commit -m "footer commit from khalid"
+// $ git push -u origin samir
+echo "Hello World Footer commit from khalid";
+
 ?>
